@@ -1,0 +1,11 @@
+{
+  "name": "io_bootloader",
+  "description": "Nova Core IO module bootloader",
+  "chip": "STM32F303CC",
+  "required_packages": [],
+  "chibios_components": [
+    "nil",
+    "hal",
+    "pal"
+  ]
+}
